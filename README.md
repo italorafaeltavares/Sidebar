@@ -8,9 +8,9 @@
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div><br>
 
-> Desenvolvido apartir da <a href="https://www.youtube.com/watch?v=RlaZjCgTw9M"><em>Aula</em></a> do Canal <a href="https://www.youtube.com/@Sujeitoprogramador">Sujeito programador</a>
+> Desenvolvido apartir da <a href="https://www.youtube.com/watch?v=RlaZjCgTw9M" target=_blank><em>Aula</em></a> do Canal <a href="https://www.youtube.com/@Sujeitoprogramador" target=_blank>Sujeito programador</a>
 
 <p>Acesse:</p>
-<a href="https://italorafaeltavares.github.io/sidebar/" target=_blank><img align="center" alt="banner" src="./img/im01.png" whidth=300></a>
+<a href="https://italorafaeltavares.github.io/sidebar/" target=_blank><img align="center" alt="banner" src="./img/im01.png" whidth="250"></a>
 
-<img align="center" alt="banner" src="./img/img02.png" heigth=50> 
+<img align="center" alt="mobile" height="500" width="350" src="./img/img02.png"> 
