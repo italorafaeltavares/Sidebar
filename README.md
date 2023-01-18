@@ -11,6 +11,6 @@
 > Desenvolvido apartir da <a href="https://www.youtube.com/watch?v=RlaZjCgTw9M" target=_blank><em>Aula</em></a> do Canal <a href="https://www.youtube.com/@Sujeitoprogramador" target=_blank>Sujeito programador</a>
 
 <p>Acesse:</p>
-<a href="https://italorafaeltavares.github.io/sidebar/" target=_blank><img align="center" alt="banner" src="./img/im01.png" whidth="250"></a>
+<a href="https://italorafaeltavares.github.io/Sidebar" target=_blank><img align="center" alt="banner" src="./img/im01.png" whidth="250"></a>
 
 <img align="center" alt="mobile" height="500" width="350" src="./img/img02.png"> 
